@@ -1,0 +1,6 @@
+streamlit
+openai
+tiktoken
+python-dotenv
+requests
+groq
